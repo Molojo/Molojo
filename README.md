@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Molojo
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Machine Learning and AI
 - 💞️ I’m looking to collaborate on Machine Learning in Engineering Application
 - 📫 How to reach me - mubaraq.olojo@gmail.com
 
